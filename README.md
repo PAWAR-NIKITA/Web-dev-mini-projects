@@ -25,7 +25,7 @@ The repository contains the list of awesome✨ &amp; cool web development beginn
 
 </div>
 <div align="center">
-  
+#all rights reserved  
 # ADD ANY WEB DEVELOPMENT MINI PROJECT !
 
 </div>
